@@ -1,4 +1,5 @@
-# Plant-disease-detection-system-for-AI-
+# Plant
+-disease-detection-system-for-AI-
 Plant Disease Detection System is an Artificial Intelligence based project that helps farmers and users to identify plant diseases using leaf images.
 🎯 Objective
 The objective of this project is to detect plant diseases early and help farmers take proper action to protect crops and improve yield.
