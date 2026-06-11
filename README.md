@@ -14,10 +14,10 @@ Artificial Intelligence / Machine Learning
 Deep Learning (CNN - Convolutional Neural Networks)
 OpenCV
 TensorFlow / Keras (optional)
-📷 Sample Input
+Sample Input
 Plant leaf image upload
 Camera captured images
-❓ Sample Questions
+ Sample Questions
 Is my plant healthy or diseased?
 What disease is affecting my crop?
 How can I treat this plant disease?
